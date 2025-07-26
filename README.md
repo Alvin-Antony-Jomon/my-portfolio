@@ -873,7 +873,7 @@
 
                 <div class="skill-group">
                     <div class="skill-group-title">
-                        💻 Programming & Simulation
+                         Programming & Simulation
                     </div>
                     <div class="skill-badges">
                         <span class="skill-badge">C++ Programming</span>
